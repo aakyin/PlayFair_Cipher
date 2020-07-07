@@ -1,0 +1,9 @@
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\bin\Debug\PlayFair_Cipher.exe.config
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\bin\Debug\PlayFair_Cipher.exe
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\bin\Debug\PlayFair_Cipher.pdb
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.csprojAssemblyReference.cache
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.Form1.resources
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.Properties.Resources.resources
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.exe
+C:\Users\alvin\source\repos\PlayFair_Cipher\PlayFair_Cipher\obj\Debug\PlayFair_Cipher.pdb
